@@ -1,0 +1,8 @@
+total 21
+drwxr-xr-x 1 Lucasfernando 1049089    0 Sep 22 20:19 ./
+drwxr-xr-x 1 Lucasfernando 1049089    0 Sep 22 20:12 ../
+drwxr-xr-x 1 Lucasfernando 1049089    0 Sep 22 20:17 .git/
+-rw-r--r-- 1 Lucasfernando 1049089 1091 Sep 22 20:12 LICENSE
+-rw-r--r-- 1 Lucasfernando 1049089   62 Sep 22 20:12 README.md
+-rw-r--r-- 1 Lucasfernando 1049089 1078 Sep 22 20:17 index.html
+-rw-r--r-- 1 Lucasfernando 1049089    0 Sep 22 20:19 trabalho8.txt
